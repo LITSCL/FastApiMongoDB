@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "64b5fbe6e48ea86d96134edc"
+  },
+  "nombre": "Daniel",
+  "correo": "daniel@falso.local",
+  "clave": "123"
+},{
+  "_id": {
+    "$oid": "64b5fbe9e48ea86d96134edd"
+  },
+  "nombre": "Esteban",
+  "correo": "esteban@falso.local",
+  "clave": "123"
+},{
+  "_id": {
+    "$oid": "64b5fbeae48ea86d96134ede"
+  },
+  "nombre": "Andy",
+  "correo": "andy@falso.local",
+  "clave": "123"
+},{
+  "_id": {
+    "$oid": "64b5fbebe48ea86d96134edf"
+  },
+  "nombre": "Nancy",
+  "correo": "nancy@falso.local",
+  "clave": "123"
+},{
+  "_id": {
+    "$oid": "64b5fbece48ea86d96134ee0"
+  },
+  "nombre": "Maria",
+  "correo": "maria@falso.local",
+  "clave": "123"
+},{
+  "_id": {
+    "$oid": "64b5fbede48ea86d96134ee1"
+  },
+  "nombre": "Mabel",
+  "correo": "mabel@falso.local",
+  "clave": "123"
+}]
